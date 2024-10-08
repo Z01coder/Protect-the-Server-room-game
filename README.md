@@ -16,6 +16,9 @@
 
 - **Стрелки на клавиатуре**: перемещение робота влево и вправо.
 
+## Музыка
+"Floppy Disks" by Shane Ivers - https://www.silvermansound.com
+
 ## Требования
 
 - Python 3.7+
